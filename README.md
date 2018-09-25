@@ -1,1 +1,1 @@
-# service-tip-calculator-sdcole96
+Tip Calculator App for Android
